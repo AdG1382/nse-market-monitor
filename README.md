@@ -105,7 +105,10 @@ An exhaustive security and financial audit was performed on this repository:
 
 ---
 
-## Local Setup & Installation
+## Local Setup & Cloud Deployment
+
+- **For End Users / Cloud Deployment**: Follow the step-by-step [Deployment & Cloud Hosting Guide](DEPLOYMENT.md) to host the app on Render or Railway for free.
+- **For Local Setup**: Follow the instructions below.
 
 ### Prerequisites
 - Python 3.10+ (Python 3.12 recommended)
